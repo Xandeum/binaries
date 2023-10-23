@@ -1,7 +1,6 @@
-# Xandeum v0.1
+# Xandeum v0.2
 
 ## Based on Solana v1.16.14
 
-- Xandeum branding for binaries, help texts, etc.
-- Native token is named **XNT**. (for **X**andeum **N**ative **T**oken)
-- Ledger size can now be limited to as little as **10M** shreds.
+- Native token is named **XAND**.
+- **Ӿ** is our currency symbol now.
