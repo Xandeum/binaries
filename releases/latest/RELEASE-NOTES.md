@@ -1,6 +1,5 @@
-# Xandeum v0.2
+# Xandeum v0.2.1
 
 ## Based on Solana v1.16.14
 
-- Native token is named **XAND**.
-- **Ӿ** is our currency symbol now.
+- We are using our own versioning now.
