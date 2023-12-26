@@ -1,5 +1,5 @@
-# Xandeum v0.2.1
+# Xandeum v0.3.0
 
 ## Based on Solana v1.16.14
 
-- We are using our own versioning now.
+- Identifying Xandeum transactions now, And logging That a Xandeum is received  in the validator logs.
